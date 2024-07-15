@@ -200,6 +200,11 @@ footer{
     padding: 15px 20px 15px 15px;
     border-radius: 30px;
 }
+.sub-btn {
+    background-color: #009AD8;
+    color: white !important;
+
+}
 .location-contact{
     background-color: #262936;
 }
